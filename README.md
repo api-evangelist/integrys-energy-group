@@ -1,11 +1,22 @@
 # Integrys Energy Group
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Integrys Energy Group.
+Integrys Energy Group was a holding company with regulated natural gas and electric utility operations and a non-regulated retail energy business before being acquired by Wisconsin Energy Corporation in 2015 to form WEC Energy Group. There is no public developer API or documentation.
+
+**Tags:** Energy, Utilities, Natural Gas, Electric
+
+**Timestamps:**
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented. Integrys Energy Group is now part of WEC Energy Group.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.integrys-energy-group.com)
+- [Website](https://www.wecenergygroup.com)
+
+## Maintainers
+
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
