@@ -1,7 +1,9 @@
 ---
 title: Integrys Energy Shells Out $440M For Wis. Power Generator
 url: https://www.law360.com/articles/383052/integrys-energy-shells-out-440m-for-wis-power-generator
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Integrys Energy Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

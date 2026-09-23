@@ -1,7 +1,9 @@
 ---
 title: WEC Energy Group outlines $37.5B growth plan
 url: https://www.stocktitan.net/sec-filings/WEC/8-k-wec-energy-group-inc-reports-material-event-7785f9bfac06.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Integrys Energy Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

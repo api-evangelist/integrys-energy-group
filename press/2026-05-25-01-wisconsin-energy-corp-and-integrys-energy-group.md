@@ -1,7 +1,9 @@
 ---
 title: Wisconsin Energy Corp. And Integrys Energy Group
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1410104
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Integrys Energy Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
